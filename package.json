@@ -29,13 +29,14 @@
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.9.0",
-    "@types/express": "^5.0.1",
+    "express": "^5.1.0",
     "dotenv": "^16.4.7",
     "solana-agent-kit": "1.4.9"
   },
   "devDependencies": {
     "@types/node": "^22.13.4",
-    "typescript": "^5.7.3"
+    "typescript": "^5.7.3",
+    "@types/express": "^5.0.1"
   },
   "packageManager": "pnpm@9.14.2"
 }
