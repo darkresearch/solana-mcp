@@ -28,6 +28,7 @@
   "author": "sendaifun",
   "license": "MIT",
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0",
     "dotenv": "^16.4.7",
     "solana-agent-kit": "1.4.9"
   },
